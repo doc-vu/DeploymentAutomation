@@ -34,3 +34,5 @@ To configure the PPA on your machine and install ansible run these commands:<br>
 For more info please refer to https://docs.ansible.com/ansible/intro_installation.html
 
 ![Alt text](CloudCAMP.png)
+
+[link text](https://youtu.be/Dc8rfNQIo3k "CloudCAMP")
