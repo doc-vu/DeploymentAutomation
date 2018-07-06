@@ -35,4 +35,4 @@ For more info please refer to https://docs.ansible.com/ansible/intro_installatio
 
 ![Alt text](CloudCAMP.png)
 
-[link text](https://youtu.be/Dc8rfNQIo3k "CloudCAMP")
+![link text](https://youtu.be/Dc8rfNQIo3k "CloudCAMP")
